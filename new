@@ -1,0 +1,16 @@
+> % pkg_info -L fzf
+Information for inst:fzf-0.21.1
+
+Files:
+/usr/local/bin/fzf
+/usr/local/bin/fzf-tmux
+/usr/local/man/man1/fzf-tmux.1
+/usr/local/man/man1/fzf.1
+/usr/local/share/doc/pkg-readmes/fzf
+/usr/local/share/fish/functions/fzf-key-bindings.fish
+/usr/local/share/fzf/bash/completion.bash
+/usr/local/share/fzf/bash/key-bindings.bash
+/usr/local/share/vim/vimfiles/doc/fzf.txt
+/usr/local/share/vim/vimfiles/plugin/fzf.vim
+/usr/local/share/zsh/site-functions/_fzf_completion
+/usr/local/share/zsh/site-functions/_fzf_key_bindings
